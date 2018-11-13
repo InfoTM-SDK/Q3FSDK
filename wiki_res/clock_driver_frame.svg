@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 clock_driver_frame.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="7.03723in" height="5.70833in"
+		viewBox="0 0 506.681 411" xml:space="preserve" color-interpolation-filters="sRGB" class="st13">
+	<v:documentProperties v:langID="1033" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {visibility:visible}
+		.st2 {fill:#5b9bd5;fill-opacity:0.22;filter:url(#filter_2);stroke:none}
+		.st3 {fill:#00b0f0;stroke:none;stroke-width:0.25}
+		.st4 {fill:#feffff;font-family:Microsoft Sans Serif;font-size:0.833336em}
+		.st5 {fill:#feffff;font-family:微软雅黑;font-size:0.833336em}
+		.st6 {font-family:微软雅黑;font-size:1em}
+		.st7 {font-size:1em}
+		.st8 {marker-end:url(#mrkr5-32);stroke:#008dc0;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st9 {fill:#008dc0;fill-opacity:1;stroke:#008dc0;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st10 {fill:none;stroke:none;stroke-width:0.25}
+		.st11 {fill:#008dc0;font-family:微软雅黑;font-size:0.833336em}
+		.st12 {font-family:Microsoft Sans Serif;font-size:1em}
+		.st13 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend5">
+			<path d="M 2 1 L 0 0 L 1.98117 -0.993387 C 1.67173 -0.364514 1.67301 0.372642 1.98465 1.00043 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr5-32" class="st9" v:arrowType="5" v:arrowSize="2" v:setback="6.16" refX="-6.16" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<defs id="Filters">
+		<filter id="filter_2">
+			<feGaussianBlur stdDeviation="2"/>
+		</filter>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="1" v:pageScale="1" v:drawingUnits="0" v:shadowOffsetX="9" v:shadowOffsetY="-9"/>
+		<v:layer v:name="Connector" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(250.043,-355.973)">
+			<title>Rectangle.1</title>
+			<desc>Clock DebugFS</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="72" cy="384" width="144" height="54"/>
+			<g id="shadow1-2" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="357" width="144" height="54" class="st2"/>
+			</g>
+			<rect x="0" y="357" width="144" height="54" class="st3"/>
+			<text x="37.02" y="387" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Clock DebugFS</text>		</g>
+		<g id="shape2-7" v:mID="2" v:groupContext="shape" transform="translate(250.043,-229.973)">
+			<title>Rectangle.2</title>
+			<desc>Clock Core</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="72" cy="384" width="144" height="54"/>
+			<g id="shadow2-8" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="357" width="144" height="54" class="st2"/>
+			</g>
+			<rect x="0" y="357" width="144" height="54" class="st3"/>
+			<text x="47.3" y="387" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Clock Core</text>		</g>
+		<g id="shape3-13" v:mID="3" v:groupContext="shape" transform="translate(2.6544,-229.973)">
+			<title>Rectangle.3</title>
+			<desc>设备驱动</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="62.7763" cy="384" width="125.56" height="54"/>
+			<g id="shadow3-14" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="357" width="125.553" height="54" class="st2"/>
+			</g>
+			<rect x="0" y="357" width="125.553" height="54" class="st3"/>
+			<text x="42.78" y="387.04" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>设备驱动</text>		</g>
+		<g id="shape4-19" v:mID="4" v:groupContext="shape" transform="translate(250.043,-103.973)">
+			<title>Rectangle.4</title>
+			<desc>Clock 驱动 Apollo | Apollo-2 | Apollo-ECO</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="72" cy="384" width="144" height="54"/>
+			<g id="shadow4-20" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="357" width="144" height="54" class="st2"/>
+			</g>
+			<rect x="0" y="357" width="144" height="54" class="st3"/>
+			<text x="48.14" y="381.04" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Clock <tspan
+						class="st6">驱动<v:newlineChar/></tspan><tspan x="5.27" dy="1.204em" class="st7">Apollo </tspan>| Apollo-2 | Apollo-ECO</text>		</g>
+		<g id="shape5-27" v:mID="5" v:groupContext="shape" v:layerMember="0" transform="translate(128.207,-247.973)">
+			<title>Dynamic connector.104</title>
+			<path d="M0 402 L115.68 402" class="st8"/>
+		</g>
+		<g id="shape6-33" v:mID="6" v:groupContext="shape" v:layerMember="0" transform="translate(313.043,-283.973)">
+			<title>Dynamic connector.6</title>
+			<path d="M9 411 L9 345.16" class="st8"/>
+		</g>
+		<g id="shape8-38" v:mID="8" v:groupContext="shape" v:layerMember="0" transform="translate(313.043,-157.973)">
+			<title>Dynamic connector.8</title>
+			<path d="M9 411 L9 345.16" class="st8"/>
+		</g>
+		<g id="shape9-43" v:mID="9" v:groupContext="shape" transform="translate(137.431,-263.723)">
+			<title>工作表.9</title>
+			<desc>申请注册Clock</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="51.8059" cy="396.375" width="103.62" height="29.25"/>
+			<rect x="0" y="381.75" width="103.612" height="29.25" class="st10"/>
+			<text x="14.27" y="399.42" class="st11" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>申请，注册<tspan
+						class="st12">Clock</tspan></text>		</g>
+		<g id="shape10-47" v:mID="10" v:groupContext="shape" transform="translate(328.625,-305.348)">
+			<title>工作表.10</title>
+			<desc>使用clk_ops系统</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="51.8059" cy="396.375" width="103.62" height="29.25"/>
+			<rect x="0" y="381.75" width="103.612" height="29.25" class="st10"/>
+			<text x="14.85" y="399.42" class="st11" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>使用<tspan
+						class="st12">clk</tspan><tspan class="st12">_</tspan><tspan class="st12">ops</tspan>系统</text>		</g>
+		<g id="shape11-53" v:mID="11" v:groupContext="shape" transform="translate(328.625,-179.348)">
+			<title>工作表.11</title>
+			<desc>实现各总线和设备Clock硬件配置细节</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="88.903" cy="396.375" width="177.81" height="29.25"/>
+			<rect x="0" y="381.75" width="177.806" height="29.25" class="st10"/>
+			<text x="6.37" y="399.42" class="st11" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>实现各总线和设备<tspan
+						class="st12">Clock</tspan>硬件配置细节</text>		</g>
+		<g id="shape12-57" v:mID="12" v:groupContext="shape" transform="translate(250.043,-4.9728)">
+			<title>Rectangle.12</title>
+			<desc>Clock 硬件</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="72" cy="384" width="144" height="54"/>
+			<g id="shadow12-58" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="357" width="144" height="54" class="st2"/>
+			</g>
+			<rect x="0" y="357" width="144" height="54" class="st3"/>
+			<text x="48.14" y="387.04" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Clock <tspan
+						class="st6">硬件</tspan></text>		</g>
+		<g id="shape13-64" v:mID="13" v:groupContext="shape" v:layerMember="0" transform="translate(313.043,-58.9728)">
+			<title>Dynamic connector.13</title>
+			<path d="M9 411 L9 372.16" class="st8"/>
+		</g>
+	</g>
+</svg>

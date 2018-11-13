@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 pwm_driver_frame.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="6.75676in" height="3.95833in"
+		viewBox="0 0 486.487 285" xml:space="preserve" color-interpolation-filters="sRGB" class="st12">
+	<v:documentProperties v:langID="1033" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {visibility:visible}
+		.st2 {fill:#5b9bd5;fill-opacity:0.22;filter:url(#filter_2);stroke:none}
+		.st3 {fill:#00b0f0;stroke:none;stroke-width:0.25}
+		.st4 {fill:#feffff;font-family:Microsoft Sans Serif;font-size:0.833336em}
+		.st5 {fill:#feffff;font-family:微软雅黑;font-size:0.833336em}
+		.st6 {font-family:Microsoft Sans Serif;font-size:1em}
+		.st7 {font-family:微软雅黑;font-size:1em}
+		.st8 {marker-end:url(#mrkr5-26);stroke:#008dc0;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st9 {fill:#008dc0;fill-opacity:1;stroke:#008dc0;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st10 {fill:none;stroke:none;stroke-width:0.25}
+		.st11 {fill:#008dc0;font-family:微软雅黑;font-size:0.833336em}
+		.st12 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend5">
+			<path d="M 2 1 L 0 0 L 1.98117 -0.993387 C 1.67173 -0.364514 1.67301 0.372642 1.98465 1.00043 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr5-26" class="st9" v:arrowType="5" v:arrowSize="2" v:setback="6.16" refX="-6.16" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<defs id="Filters">
+		<filter id="filter_2">
+			<feGaussianBlur stdDeviation="2"/>
+		</filter>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="1" v:pageScale="1" v:drawingUnits="0" v:shadowOffsetX="9" v:shadowOffsetY="-9"/>
+		<v:layer v:name="Connector" v:index="0"/>
+		<g id="shape13-1" v:mID="13" v:groupContext="shape" transform="translate(298.131,-229.973)">
+			<title>Rectangle.2</title>
+			<desc>PWM Core</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="62.7763" cy="258" width="125.56" height="54"/>
+			<g id="shadow13-2" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="231" width="125.553" height="54" class="st2"/>
+			</g>
+			<rect x="0" y="231" width="125.553" height="54" class="st3"/>
+			<text x="38.39" y="261" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>PWM Core</text>		</g>
+		<g id="shape14-7" v:mID="14" v:groupContext="shape" transform="translate(2.6544,-229.973)">
+			<title>Rectangle.3</title>
+			<desc>设备驱动背光LED等</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="79.903" cy="258" width="159.81" height="54"/>
+			<g id="shadow14-8" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="231" width="159.806" height="54" class="st2"/>
+			</g>
+			<rect x="0" y="231" width="159.806" height="54" class="st3"/>
+			<text x="20.18" y="261.04" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>设备驱动（背光，<tspan
+						class="st6">LED</tspan>等）</text>		</g>
+		<g id="shape15-14" v:mID="15" v:groupContext="shape" transform="translate(298.131,-103.973)">
+			<title>Rectangle.4</title>
+			<desc>PWM 驱动</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="62.7763" cy="258" width="125.56" height="54"/>
+			<g id="shadow15-15" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="231" width="125.553" height="54" class="st2"/>
+			</g>
+			<rect x="0" y="231" width="125.553" height="54" class="st3"/>
+			<text x="39.23" y="261.04" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>PWM <tspan
+						class="st7">驱动</tspan></text>		</g>
+		<g id="shape16-21" v:mID="16" v:groupContext="shape" v:layerMember="0" transform="translate(162.46,-247.973)">
+			<title>Dynamic connector.104</title>
+			<path d="M0 276 L129.51 276" class="st8"/>
+		</g>
+		<g id="shape17-27" v:mID="17" v:groupContext="shape" v:layerMember="0" transform="translate(351.908,-157.973)">
+			<title>Dynamic connector.8</title>
+			<path d="M9 285 L9 219.16" class="st8"/>
+		</g>
+		<g id="shape19-32" v:mID="19" v:groupContext="shape" transform="translate(360.684,-179.348)">
+			<title>工作表.19</title>
+			<desc>实现PWM硬件配置细节</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="62.7763" cy="270.375" width="125.56" height="29.25"/>
+			<rect x="0" y="255.75" width="125.553" height="29.25" class="st10"/>
+			<text x="10.56" y="273.42" class="st11" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>实现<tspan class="st6">PWM</tspan>硬件配置细节</text>		</g>
+		<g id="shape20-36" v:mID="20" v:groupContext="shape" transform="translate(298.131,-4.9728)">
+			<title>Rectangle.12</title>
+			<desc>PWM 硬件</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="62.7763" cy="258" width="125.56" height="54"/>
+			<g id="shadow20-37" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="231" width="125.553" height="54" class="st2"/>
+			</g>
+			<rect x="0" y="231" width="125.553" height="54" class="st3"/>
+			<text x="39.23" y="261.04" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>PWM <tspan
+						class="st7">硬件</tspan></text>		</g>
+		<g id="shape21-43" v:mID="21" v:groupContext="shape" v:layerMember="0" transform="translate(351.908,-58.9728)">
+			<title>Dynamic connector.13</title>
+			<path d="M9 285 L9 246.16" class="st8"/>
+		</g>
+	</g>
+</svg>

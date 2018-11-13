@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 wifi_sys_frame.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="1.99901in" height="4.50694in"
+		viewBox="0 0 143.929 324.5" xml:space="preserve" color-interpolation-filters="sRGB" class="st6">
+	<v:documentProperties v:langID="1033" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#00b0f0;stroke:#00b0f0;stroke-width:0.25}
+		.st2 {fill:#ffffff;font-family:Microsoft Sans Serif;font-size:0.833336em}
+		.st3 {font-family:微软雅黑;font-size:1em}
+		.st4 {marker-end:url(#mrkr5-10);stroke:#008dc0;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st5 {fill:#008dc0;fill-opacity:1;stroke:#008dc0;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st6 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend5">
+			<path d="M 2 1 L 0 0 L 1.98117 -0.993387 C 1.67173 -0.364514 1.67301 0.372642 1.98465 1.00043 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr5-10" class="st5" v:arrowType="5" v:arrowSize="2" v:setback="6.16" refX="-6.16" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="1" v:pageScale="1" v:drawingUnits="0" v:shadowOffsetX="9" v:shadowOffsetY="-9"/>
+		<v:layer v:name="Connector" v:index="0"/>
+		<g id="shape26-1" v:mID="26" v:groupContext="shape" transform="translate(0.25,-272.751)">
+			<title>Rectangle.26</title>
+			<desc>d304main等应用程序</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="71.7143" cy="298.75" width="143.43" height="51.4994"/>
+			<rect x="0" y="273.001" width="143.429" height="51.4994" class="st1"/>
+			<text x="24.72" y="301.79" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>d304main<tspan
+						class="st3">等应用程序</tspan></text>		</g>
+		<g id="shape32-5" v:mID="32" v:groupContext="shape" v:layerMember="0" transform="translate(62.9643,-272.751)">
+			<title>Dynamic connector</title>
+			<path d="M9 324.5 L9 357.67" class="st4"/>
+		</g>
+		<g id="shape35-11" v:mID="35" v:groupContext="shape" transform="translate(0.25,-181.917)">
+			<title>Rectangle.35</title>
+			<desc>Wi-Fi 应用层API</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="71.7143" cy="298.75" width="143.43" height="51.4994"/>
+			<rect x="0" y="273.001" width="143.429" height="51.4994" class="st1"/>
+			<text x="35.61" y="301.79" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Wi-Fi <tspan
+						class="st3">应用层</tspan>API</text>		</g>
+		<g id="shape36-15" v:mID="36" v:groupContext="shape" transform="translate(0.25,-91.0835)">
+			<title>Rectangle.36</title>
+			<desc>Wi-Fi HAL层</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="71.7143" cy="298.75" width="143.43" height="51.4994"/>
+			<rect x="0" y="273.001" width="143.429" height="51.4994" class="st1"/>
+			<text x="43.94" y="301.79" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Wi-Fi HAL<tspan
+						class="st3">层</tspan></text>		</g>
+		<g id="shape37-19" v:mID="37" v:groupContext="shape" transform="translate(0.25,-0.25)">
+			<title>Rectangle.37</title>
+			<desc>Wi-Fi 内核驱动程序</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="71.7143" cy="298.75" width="143.43" height="51.4994"/>
+			<rect x="0" y="273.001" width="143.429" height="51.4994" class="st1"/>
+			<text x="28.67" y="301.79" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Wi-Fi <tspan
+						class="st3">内核驱动程序</tspan></text>		</g>
+		<g id="shape38-23" v:mID="38" v:groupContext="shape" v:layerMember="0" transform="translate(62.9643,-181.917)">
+			<title>Dynamic connector.38</title>
+			<path d="M9 324.5 L9 357.67" class="st4"/>
+		</g>
+		<g id="shape40-28" v:mID="40" v:groupContext="shape" v:layerMember="0" transform="translate(62.9643,-91.0835)">
+			<title>Dynamic connector.40</title>
+			<path d="M9 324.5 L9 357.67" class="st4"/>
+		</g>
+	</g>
+</svg>

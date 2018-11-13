@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 vencoder.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="1.59698in" height="0.892467in"
+		viewBox="0 0 114.982 64.2576" xml:space="preserve" color-interpolation-filters="sRGB" class="st7">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:#000000;stroke-width:0.25}
+		.st2 {fill:#00b0f0;font-family:Calibri;font-size:0.833336em}
+		.st3 {fill:#000000;font-size:1em}
+		.st4 {fill:#ff79b6;stroke:none;stroke-width:0.25}
+		.st5 {fill:#feffff;font-family:Calibri;font-size:0.833336em}
+		.st6 {fill:#00b0f0;stroke:none;stroke-width:0.25}
+		.st7 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="1" v:pageScale="1" v:drawingUnits="0" v:shadowOffsetX="9" v:shadowOffsetY="-9"/>
+		<g id="shape2-1" v:mID="2" v:groupContext="shape" transform="translate(9.8111,-0.25)">
+			<title>Rectangle.123</title>
+			<desc>inst_name (h1264)</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="47.818" cy="32.3788" width="95.65" height="63.7576"/>
+			<rect x="0" y="0.5" width="95.6365" height="63.7576" class="st1"/>
+			<text x="26.42" y="29.38" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>inst_name<v:newlineChar/><tspan
+						x="25.8" dy="1.2em" class="st3">(</tspan><tspan class="st3" v:langID="2052">vencoder</tspan><tspan
+						class="st3">)</tspan></text>		</g>
+		<g id="shape3-7" v:mID="3" v:groupContext="shape" transform="translate(76.9951,-41.3498)">
+			<title>Rectangle.124</title>
+			<desc>stream</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="18.8683" cy="59.2096" width="37.75" height="10.096"/>
+			<path d="M0 59.76 A4.50011 4.50011 -180 0 0 4.5 64.26 L33.24 64.26 A4.50011 4.50011 -180 0 0 37.74 59.76 L37.74 58.66
+						 A4.50011 4.50011 -180 0 0 33.24 54.16 L4.5 54.16 A4.50011 4.50011 -180 0 0 0 58.66 L0 59.76 Z" class="st4"/>
+			<text x="4.62" y="62.21" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>stream</text>		</g>
+		<g id="shape4-10" v:mID="4" v:groupContext="shape" transform="translate(0.25,-27.0807)">
+			<title>Rectangle.125</title>
+			<desc>frame</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="18.8683" cy="59.2096" width="37.75" height="10.096"/>
+			<path d="M0 59.76 A4.50011 4.50011 -180 0 0 4.5 64.26 L33.24 64.26 A4.50011 4.50011 -180 0 0 37.74 59.76 L37.74 58.66
+						 A4.50011 4.50011 -180 0 0 33.24 54.16 L4.5 54.16 A4.50011 4.50011 -180 0 0 0 58.66 L0 59.76 Z" class="st6"/>
+			<text x="6.72" y="62.21" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>frame</text>		</g>
+		<g id="shape5-13" v:mID="5" v:groupContext="shape" transform="translate(86.964,-12.3742)">
+			<title>Rectangle.126</title>
+			<desc>mv</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="13.8838" cy="59.2096" width="27.78" height="10.096"/>
+			<path d="M0 59.76 A4.50011 4.50011 -180 0 0 4.5 64.26 L23.27 64.26 A4.50011 4.50011 -180 0 0 27.77 59.76 L27.77 58.66
+						 A4.50011 4.50011 -180 0 0 23.27 54.16 L4.5 54.16 A4.50011 4.50011 -180 0 0 0 58.66 L0 59.76 Z" class="st4"/>
+			<text x="7.63" y="62.21" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>mv</text>		</g>
+	</g>
+</svg>

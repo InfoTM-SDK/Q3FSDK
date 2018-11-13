@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 绘图11.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="1.59698in" height="0.892467in"
+		viewBox="0 0 114.982 64.2576" xml:space="preserve" color-interpolation-filters="sRGB" class="st7">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:#000000;stroke-width:0.25}
+		.st2 {fill:#00b0f0;font-family:Calibri;font-size:0.833336em}
+		.st3 {fill:#000000;font-size:1em}
+		.st4 {fill:#ff79b6;stroke:none;stroke-width:0.25}
+		.st5 {fill:#feffff;font-family:Calibri;font-size:0.833336em}
+		.st6 {fill:#00b0f0;stroke:none;stroke-width:0.25}
+		.st7 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="1" v:pageScale="1" v:drawingUnits="0" v:shadowOffsetX="9" v:shadowOffsetY="-9"/>
+		<g id="group5-1" transform="translate(0.25,-0.25)" v:mID="5" v:groupContext="group">
+			<title>工作表.5</title>
+			<g id="shape2-2" v:mID="2" v:groupContext="shape" transform="translate(9.5611,0)">
+				<title>Rectangle.32</title>
+				<desc>inst_name (h2)</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)"/>
+				<v:textRect cx="47.818" cy="32.3788" width="95.65" height="63.7576"/>
+				<rect x="0" y="0.5" width="95.6365" height="63.7576" class="st1"/>
+				<text x="26.42" y="29.38" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>inst_name<v:newlineChar/><tspan
+							x="25.8" dy="1.2em" class="st3">(</tspan><tspan class="st3" v:langID="2052">vencoder</tspan><tspan
+							class="st3">)</tspan></text>			</g>
+			<g id="shape3-8" v:mID="3" v:groupContext="shape" transform="translate(76.7451,-27.4035)">
+				<title>Rectangle.33</title>
+				<desc>stream</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)"/>
+				<v:textRect cx="18.8683" cy="59.7824" width="37.75" height="8.95055"/>
+				<path d="M0 59.78 A4.47538 4.47538 -180 0 0 4.48 64.26 L33.26 64.26 A4.47538 4.47538 -180 0 0 37.74 59.78 L37.74
+							 59.78 A4.47538 4.47538 -180 0 0 33.26 55.31 L4.48 55.31 A4.47538 4.47538 -180 0 0 0 59.78 L0 59.78 Z"
+						class="st4"/>
+				<text x="4.62" y="62.78" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>stream</text>			</g>
+			<g id="shape4-11" v:mID="4" v:groupContext="shape" transform="translate(7.99361E-15,-27.4035)">
+				<title>Rectangle.34</title>
+				<desc>frame</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)"/>
+				<v:textRect cx="18.8683" cy="59.7824" width="37.75" height="8.95055"/>
+				<path d="M0 59.78 A4.47538 4.47538 -180 0 0 4.48 64.26 L33.26 64.26 A4.47538 4.47538 -180 0 0 37.74 59.78 L37.74
+							 59.78 A4.47538 4.47538 -180 0 0 33.26 55.31 L4.48 55.31 A4.47538 4.47538 -180 0 0 -0 59.78 L0 59.78
+							 Z" class="st6"/>
+				<text x="6.72" y="62.78" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>frame</text>			</g>
+		</g>
+	</g>
+</svg>

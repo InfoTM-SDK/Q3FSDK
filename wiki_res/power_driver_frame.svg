@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 power_driver_frame.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="2.90913in" height="5.70833in"
+		viewBox="0 0 209.457 411" xml:space="preserve" color-interpolation-filters="sRGB" class="st11">
+	<v:documentProperties v:langID="1033" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {visibility:visible}
+		.st2 {fill:#5b9bd5;fill-opacity:0.22;filter:url(#filter_2);stroke:none}
+		.st3 {fill:#00b0f0;stroke:none;stroke-width:0.25}
+		.st4 {fill:#feffff;font-family:Microsoft Sans Serif;font-size:0.833336em}
+		.st5 {font-family:微软雅黑;font-size:1em}
+		.st6 {marker-end:url(#mrkr5-26);stroke:#008dc0;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st7 {fill:#008dc0;fill-opacity:1;stroke:#008dc0;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st8 {fill:none;stroke:none;stroke-width:0.25}
+		.st9 {fill:#008dc0;font-family:微软雅黑;font-size:0.833336em}
+		.st10 {font-family:Microsoft Sans Serif;font-size:1em}
+		.st11 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend5">
+			<path d="M 2 1 L 0 0 L 1.98117 -0.993387 C 1.67173 -0.364514 1.67301 0.372642 1.98465 1.00043 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr5-26" class="st7" v:arrowType="5" v:arrowSize="2" v:setback="6.16" refX="-6.16" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<defs id="Filters">
+		<filter id="filter_2">
+			<feGaussianBlur stdDeviation="2"/>
+		</filter>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="1" v:pageScale="1" v:drawingUnits="0" v:shadowOffsetX="9" v:shadowOffsetY="-9"/>
+		<v:layer v:name="Connector" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(2.65438,-355.973)">
+			<title>Rectangle.3</title>
+			<desc>sysfs Battery调试接口</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="62.7763" cy="384" width="125.56" height="54"/>
+			<g id="shadow1-2" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="357" width="125.553" height="54" class="st2"/>
+			</g>
+			<rect x="0" y="357" width="125.553" height="54" class="st3"/>
+			<text x="14.22" y="387.04" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>sysfs Battery<tspan
+						class="st5">调试接口</tspan></text>		</g>
+		<g id="shape2-8" v:mID="2" v:groupContext="shape" transform="translate(2.65438,-229.973)">
+			<title>Rectangle.2</title>
+			<desc>Power Core</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="62.7763" cy="384" width="125.56" height="54"/>
+			<g id="shadow2-9" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="357" width="125.553" height="54" class="st2"/>
+			</g>
+			<rect x="0" y="357" width="125.553" height="54" class="st3"/>
+			<text x="36.44" y="387" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Power Core</text>		</g>
+		<g id="shape4-14" v:mID="4" v:groupContext="shape" transform="translate(2.65438,-103.973)">
+			<title>Rectangle.4</title>
+			<desc>Battery 驱动</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="62.7763" cy="384" width="125.56" height="54"/>
+			<g id="shadow4-15" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="357" width="125.553" height="54" class="st2"/>
+			</g>
+			<rect x="0" y="357" width="125.553" height="54" class="st3"/>
+			<text x="35.61" y="387.04" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Battery <tspan
+						class="st5">驱动</tspan></text>		</g>
+		<g id="shape6-21" v:mID="6" v:groupContext="shape" v:layerMember="0" transform="translate(56.4307,-283.973)">
+			<title>Dynamic connector.6</title>
+			<path d="M9 411 L9 345.16" class="st6"/>
+		</g>
+		<g id="shape8-27" v:mID="8" v:groupContext="shape" v:layerMember="0" transform="translate(56.4307,-157.973)">
+			<title>Dynamic connector.8</title>
+			<path d="M9 411 L9 345.16" class="st6"/>
+		</g>
+		<g id="shape11-32" v:mID="11" v:groupContext="shape" transform="translate(67.4011,-179.348)">
+			<title>工作表.11</title>
+			<desc>实现Battery硬件配置细节</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="70.903" cy="396.375" width="141.81" height="29.25"/>
+			<rect x="0" y="381.75" width="141.806" height="29.25" class="st8"/>
+			<text x="15.06" y="399.42" class="st9" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>实现<tspan class="st10">Battery</tspan>硬件配置细节</text>		</g>
+		<g id="shape12-36" v:mID="12" v:groupContext="shape" transform="translate(2.65438,-4.9728)">
+			<title>Rectangle.12</title>
+			<desc>Battery 硬件</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="62.7763" cy="384" width="125.56" height="54"/>
+			<g id="shadow12-37" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="357" width="125.553" height="54" class="st2"/>
+			</g>
+			<rect x="0" y="357" width="125.553" height="54" class="st3"/>
+			<text x="35.61" y="387.04" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Battery <tspan
+						class="st5">硬件</tspan></text>		</g>
+		<g id="shape13-43" v:mID="13" v:groupContext="shape" v:layerMember="0" transform="translate(56.4307,-58.9728)">
+			<title>Dynamic connector.13</title>
+			<path d="M9 411 L9 372.16" class="st6"/>
+		</g>
+	</g>
+</svg>

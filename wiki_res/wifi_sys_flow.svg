@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 wifi_sys_flow.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="7.54705in" height="3.43713in"
+		viewBox="0 0 543.388 247.473" xml:space="preserve" color-interpolation-filters="sRGB" class="st11">
+	<v:documentProperties v:langID="1033" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;marker-end:url(#mrkr5-4);stroke:#00b0f0;stroke-width:0.25}
+		.st2 {fill:#00b0f0;fill-opacity:1;stroke:#00b0f0;stroke-opacity:1;stroke-width:0.090252707581227}
+		.st3 {fill:#008dc0;font-family:Microsoft Sans Serif;font-size:0.833336em}
+		.st4 {marker-end:url(#mrkr5-26);marker-start:url(#mrkr5-24);stroke:#008dc0;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st5 {fill:#008dc0;fill-opacity:1;stroke:#008dc0;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st6 {fill:none;stroke:none;stroke-width:0.25}
+		.st7 {fill:#5b9bd5;font-family:Microsoft Sans Serif;font-size:0.833336em}
+		.st8 {font-family:微软雅黑;font-size:1em}
+		.st9 {marker-end:url(#mrkr4-51);marker-start:url(#mrkr4-49);stroke:#759fcc;stroke-dasharray:3,3;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st10 {fill:#759fcc;fill-opacity:1;stroke:#759fcc;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st11 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend5">
+			<path d="M 2 1 L 0 0 L 1.98117 -0.993387 C 1.67173 -0.364514 1.67301 0.372642 1.98465 1.00043 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr5-4" class="st2" v:arrowType="5" v:arrowSize="2" v:setback="19.39" refX="-19.39" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(-11.08,-11.08) "/>
+		</marker>
+		<marker id="mrkr5-24" class="st5" v:arrowType="5" v:arrowSize="2" v:setback="5.8" refX="5.8" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(3.52) "/>
+		</marker>
+		<marker id="mrkr5-26" class="st5" v:arrowType="5" v:arrowSize="2" v:setback="6.16" refX="-6.16" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(-3.52,-3.52) "/>
+		</marker>
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-49" class="st10" v:arrowType="4" v:arrowSize="2" v:setback="6.68" refX="6.68" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(3.52) "/>
+		</marker>
+		<marker id="mrkr4-51" class="st10" v:arrowType="4" v:arrowSize="2" v:setback="7.04" refX="-7.04" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="1" v:pageScale="1" v:drawingUnits="0" v:shadowOffsetX="9" v:shadowOffsetY="-9"/>
+		<v:layer v:name="Connector" v:index="0"/>
+		<g id="shape2-1" v:mID="2" v:groupContext="shape" transform="translate(6.19391,-186.737)">
+			<title>Rectangle.139</title>
+			<desc>d304main</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="76.5" cy="220.202" width="153" height="54.5428"/>
+			<rect x="0" y="192.931" width="153" height="54.5428" rx="4.5" ry="4.5" class="st1"/>
+			<text x="54.51" y="223.2" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>d304main</text>		</g>
+		<g id="shape21-6" v:mID="21" v:groupContext="shape" transform="translate(384.194,-6.19391)">
+			<title>Rectangle.21</title>
+			<desc>/wifi/bcmdhd.ko</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="76.5" cy="220.202" width="153" height="54.5428"/>
+			<rect x="0" y="192.931" width="153" height="54.5428" rx="4.5" ry="4.5" class="st1"/>
+			<text x="41.98" y="223.2" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>/wifi/bcmdhd.ko</text>		</g>
+		<g id="shape22-10" v:mID="22" v:groupContext="shape" transform="translate(6.19391,-6.19391)">
+			<title>Rectangle.22</title>
+			<desc>libwifi.a</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="76.5" cy="220.202" width="153" height="54.5428"/>
+			<rect x="0" y="192.931" width="153" height="54.5428" rx="4.5" ry="4.5" class="st1"/>
+			<text x="59.99" y="223.2" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>libwifi.a</text>		</g>
+		<g id="shape23-14" v:mID="23" v:groupContext="shape" transform="translate(384.194,-186.737)">
+			<title>Rectangle.23</title>
+			<desc>wifi</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="76.5" cy="220.202" width="153" height="54.5428"/>
+			<rect x="0" y="192.931" width="153" height="54.5428" rx="4.5" ry="4.5" class="st1"/>
+			<text x="69.22" y="223.2" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>wifi</text>		</g>
+		<g id="shape25-18" v:mID="25" v:groupContext="shape" v:layerMember="0" transform="translate(73.6939,-186.737)">
+			<title>Dynamic connector.34</title>
+			<path d="M9 253.27 L9 253.63 L9 367.31" class="st4"/>
+		</g>
+		<g id="shape26-27" v:mID="26" v:groupContext="shape" v:layerMember="0" transform="translate(451.694,-186.737)">
+			<title>Dynamic connector.26</title>
+			<path d="M9 253.27 L9 253.63 L9 367.31" class="st4"/>
+		</g>
+		<g id="shape32-34" v:mID="32" v:groupContext="shape" transform="translate(160.819,-154.987)">
+			<title>工作表.32</title>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<rect x="0" y="227.473" width="152" height="20" class="st6"/>
+		</g>
+		<g id="shape48-36" v:mID="48" v:groupContext="shape" transform="translate(194.194,-129.487)">
+			<title>工作表.48</title>
+			<desc>IPC</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="76" cy="237.473" width="152" height="20"/>
+			<rect x="0" y="227.473" width="152" height="20" class="st6"/>
+			<text x="67.67" y="240.47" class="st7" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>IPC</text>		</g>
+		<g id="shape54-39" v:mID="54" v:groupContext="shape" transform="translate(361.694,-92.2367)">
+			<title>工作表.54</title>
+			<desc>wpa_supplicant 或者 hostapd</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="45" cy="218.223" width="90" height="58.5"/>
+			<rect x="0" y="188.973" width="90" height="58.5" class="st6"/>
+			<text x="10.5" y="215.14" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>wpa_supplicant<v:newlineChar/><tspan
+						x="15.88" dy="1.212em" class="st8">或者</tspan> hostapd</text>		</g>
+		<g id="shape55-43" v:mID="55" v:groupContext="shape" v:layerMember="0" transform="translate(384.194,-214.008)">
+			<title>Dynamic connector.55</title>
+			<path d="M-5.21 251.65 L-5.49 251.88 L-219.51 423.61" class="st9"/>
+		</g>
+	</g>
+</svg>

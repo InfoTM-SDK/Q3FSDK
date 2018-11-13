@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 Player_3.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="4.43325in" height="7.38577in"
+		viewBox="0 0 319.194 531.775" xml:space="preserve" color-interpolation-filters="sRGB" class="st9">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Rectangle)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;marker-end:url(#mrkr5-4);stroke:#00b0f0;stroke-width:0.25}
+		.st2 {fill:#00b0f0;fill-opacity:1;stroke:#00b0f0;stroke-opacity:1;stroke-width:0.090252707581227}
+		.st3 {fill:#008dc0;font-family:等线;font-size:0.833336em}
+		.st4 {font-size:1em}
+		.st5 {fill:none;stroke:#00b0f0;stroke-width:0.25}
+		.st6 {marker-end:url(#mrkr5-4);stroke:#00b0f0;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st7 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st8 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st9 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend5">
+			<path d="M 2 1 L 0 0 L 1.98117 -0.993387 C 1.67173 -0.364515 1.67301 0.372641 1.98465 1.00043 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr5-4" class="st2" v:arrowType="5" v:arrowSize="2" v:setback="19.39" refX="-19.39" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(-11.08,-11.08) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<v:layer v:name="Connector" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(73.4014,-307.435)">
+			<title>Rectangle.139</title>
+			<desc>添加文件并设置轨道</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="45.46" cy="514.966" width="90.92" height="33.6195"/>
+			<rect x="0" y="498.156" width="90.9199" height="33.6195" rx="4.5" ry="4.5" class="st1"/>
+			<text x="5.46" y="511.97" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>添加文件并设置轨<tspan
+						x="40.46" dy="1.2em" class="st4">道</tspan></text>		</g>
+		<g id="shape2-7" v:mID="2" v:groupContext="shape" transform="translate(80.3588,-479.906)">
+			<title>Ellipse</title>
+			<desc>开始</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="38.5026" cy="514.966" width="67.38" height="29.4171"/>
+			<path d="M0 514.97 A38.5026 16.8098 0 0 1 77.01 514.97 A38.5026 16.8098 0 0 1 0 514.97 Z" class="st5"/>
+			<text x="28.5" y="517.97" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>开始</text>		</g>
+		<g id="shape3-10" v:mID="3" v:groupContext="shape" transform="translate(73.4014,-249.944)">
+			<title>Rectangle.6</title>
+			<desc>播放</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="45.46" cy="514.966" width="90.92" height="33.6195"/>
+			<rect x="0" y="498.156" width="90.9199" height="33.6195" rx="4.5" ry="4.5" class="st1"/>
+			<text x="35.46" y="517.97" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>播放</text>		</g>
+		<g id="shape4-14" v:mID="4" v:groupContext="shape" transform="translate(204.08,-174.655)">
+			<title>Rectangle.8</title>
+			<desc>停止播放</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="45.46" cy="514.966" width="90.92" height="33.6195"/>
+			<rect x="0" y="498.156" width="90.9199" height="33.6195" rx="4.5" ry="4.5" class="st1"/>
+			<text x="25.46" y="517.97" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>停止播放</text>		</g>
+		<g id="shape5-18" v:mID="5" v:groupContext="shape" transform="translate(204.08,-122.52)">
+			<title>Rectangle.9</title>
+			<desc>销毁Player实例</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="45.46" cy="514.966" width="90.92" height="33.6195"/>
+			<rect x="0" y="498.156" width="90.9199" height="33.6195" rx="4.5" ry="4.5" class="st1"/>
+			<text x="12.47" y="517.97" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>销毁Player实例</text>		</g>
+		<g id="shape6-22" v:mID="6" v:groupContext="shape" transform="translate(211.037,-18.25)">
+			<title>Ellipse.10</title>
+			<desc>结束</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="38.5026" cy="514.966" width="67.38" height="29.4171"/>
+			<path d="M0 514.97 A38.5026 16.8098 0 0 1 77.01 514.97 A38.5026 16.8098 0 0 1 0 514.97 Z" class="st5"/>
+			<text x="28.5" y="517.97" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>结束</text>		</g>
+		<g id="shape7-25" v:mID="7" v:groupContext="shape" transform="translate(67.6004,-165.014)">
+			<title>Diamond</title>
+			<desc>停止播放</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="51.3369" cy="505.325" width="102.68" height="52.9006"/>
+			<path d="M51.34 531.78 L102.67 505.33 L51.34 478.87 L0 505.33 L51.34 531.78 Z" class="st5"/>
+			<text x="26.34" y="508.33" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>停止播放？</text>		</g>
+		<g id="shape8-29" v:mID="8" v:groupContext="shape" v:layerMember="0" transform="translate(111.775,-479.906)">
+			<title>Dynamic connector</title>
+			<path d="M7.09 531.78 L7.09 550.8" class="st6"/>
+		</g>
+		<g id="shape9-34" v:mID="9" v:groupContext="shape" v:layerMember="0" transform="translate(111.775,-307.435)">
+			<title>Dynamic connector.9</title>
+			<path d="M7.09 531.78 L7.09 550.8" class="st6"/>
+		</g>
+		<g id="shape10-39" v:mID="10" v:groupContext="shape" v:layerMember="0" transform="translate(111.813,-249.944)">
+			<title>Dynamic connector.15</title>
+			<path d="M7.05 531.78 L7.05 542.41 L7.12 542.41 L7.12 558.96" class="st6"/>
+		</g>
+		<g id="shape11-44" v:mID="11" v:groupContext="shape" v:layerMember="0" transform="translate(170.274,-184.378)">
+			<title>Dynamic connector.16</title>
+			<desc>是</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="16.903" cy="524.689" width="50" height="20.0036"/>
+			<path d="M0 524.69 L28.96 524.69" class="st6"/>
+			<rect v:rectContext="textBkgnd" x="11.903" y="518.689" width="10" height="12.0001" class="st7"/>
+			<text x="11.9" y="527.69" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>是</text>		</g>
+		<g id="shape12-51" v:mID="12" v:groupContext="shape" v:layerMember="0" transform="translate(242.453,-174.655)">
+			<title>Dynamic connector.17</title>
+			<path d="M7.09 531.78 L7.09 545.44" class="st6"/>
+		</g>
+		<g id="shape13-56" v:mID="13" v:groupContext="shape" v:layerMember="0" transform="translate(242.453,-70.3849)">
+			<title>Dynamic connector.18</title>
+			<path d="M7.09 531.78 L7.09 542.41 L7.09 542.41 L7.09 545.44" class="st6"/>
+		</g>
+		<g id="shape14-61" v:mID="14" v:groupContext="shape" v:layerMember="0" transform="translate(125.55,-165.014)">
+			<title>Dynamic connector.19</title>
+			<desc>否</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="-82.5499" cy="515.436" width="50" height="20.0036"/>
+			<path d="M-6.61 531.78 L-6.61 549.19 L-82.55 549.19 L-82.55 463.32 L-12.41 463.32" class="st6"/>
+			<rect v:rectContext="textBkgnd" x="-87.5498" y="509.436" width="10" height="12.0001" class="st8"/>
+			<text x="-87.55" y="518.44" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>否</text>		</g>
+		<g id="shape15-68" v:mID="15" v:groupContext="shape" transform="translate(73.4014,-422.415)">
+			<title>Rectangle.15</title>
+			<desc>注册Event</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="45.46" cy="514.966" width="90.92" height="33.6195"/>
+			<rect x="0" y="498.156" width="90.9199" height="33.6195" rx="4.5" ry="4.5" class="st1"/>
+			<text x="23.71" y="517.97" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>注册Event</text>		</g>
+		<g id="shape16-72" v:mID="16" v:groupContext="shape" transform="translate(73.4014,-364.925)">
+			<title>Rectangle.16</title>
+			<desc>创建Player实例</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="45.46" cy="514.966" width="90.92" height="33.6195"/>
+			<rect x="0" y="498.156" width="90.9199" height="33.6195" rx="4.5" ry="4.5" class="st1"/>
+			<text x="12.47" y="517.97" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>创建Player实例</text>		</g>
+		<g id="shape17-76" v:mID="17" v:groupContext="shape" v:layerMember="0" transform="translate(111.775,-422.415)">
+			<title>Dynamic connector.17</title>
+			<path d="M7.09 531.78 L7.09 550.8" class="st6"/>
+		</g>
+		<g id="shape18-81" v:mID="18" v:groupContext="shape" v:layerMember="0" transform="translate(125.948,-364.925)">
+			<title>Dynamic connector.18</title>
+			<path d="M-7.09 531.78 L-7.09 550.8" class="st6"/>
+		</g>
+		<g id="shape19-86" v:mID="19" v:groupContext="shape" transform="translate(204.079,-70.3849)">
+			<title>Rectangle.19</title>
+			<desc>撤销Event注册</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="45.46" cy="514.966" width="90.92" height="33.6195"/>
+			<rect x="0" y="498.156" width="90.9199" height="33.6195" rx="4.5" ry="4.5" class="st1"/>
+			<text x="13.71" y="517.97" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>撤销Event注册</text>		</g>
+		<g id="shape20-90" v:mID="20" v:groupContext="shape" v:layerMember="0" transform="translate(256.626,-122.52)">
+			<title>Dynamic connector.20</title>
+			<path d="M-7.09 531.78 L-7.09 542.41 L-7.09 542.41 L-7.09 545.44" class="st6"/>
+		</g>
+	</g>
+</svg>

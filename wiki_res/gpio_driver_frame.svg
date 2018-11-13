@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 gpio_driver_frame.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="6.28102in" height="4.07254in"
+		viewBox="0 0 452.233 293.223" xml:space="preserve" color-interpolation-filters="sRGB" class="st13">
+	<v:documentProperties v:langID="1033" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {visibility:visible}
+		.st2 {fill:#5b9bd5;fill-opacity:0.22;filter:url(#filter_2);stroke:none}
+		.st3 {fill:#00b0f0;stroke:none;stroke-width:0.25}
+		.st4 {fill:#feffff;font-family:Microsoft Sans Serif;font-size:0.833336em}
+		.st5 {fill:#feffff;font-family:微软雅黑;font-size:0.833336em}
+		.st6 {font-family:微软雅黑;font-size:1em}
+		.st7 {font-size:1em}
+		.st8 {marker-end:url(#mrkr5-26);stroke:#008dc0;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st9 {fill:#008dc0;fill-opacity:1;stroke:#008dc0;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st10 {fill:none;stroke:none;stroke-width:0.25}
+		.st11 {fill:#008dc0;font-family:微软雅黑;font-size:0.833336em}
+		.st12 {font-family:Microsoft Sans Serif;font-size:1em}
+		.st13 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend5">
+			<path d="M 2 1 L 0 0 L 1.98117 -0.993387 C 1.67173 -0.364514 1.67301 0.372642 1.98465 1.00043 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr5-26" class="st9" v:arrowType="5" v:arrowSize="2" v:setback="6.16" refX="-6.16" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<defs id="Filters">
+		<filter id="filter_2">
+			<feGaussianBlur stdDeviation="2"/>
+		</filter>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="1" v:pageScale="1" v:drawingUnits="0" v:shadowOffsetX="9" v:shadowOffsetY="-9"/>
+		<v:layer v:name="Connector" v:index="0"/>
+		<g id="shape2-1" v:mID="2" v:groupContext="shape" transform="translate(250.043,-229.973)">
+			<title>Rectangle.2</title>
+			<desc>GPIO Core</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="72" cy="266.223" width="144" height="54"/>
+			<g id="shadow2-2" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="239.223" width="144" height="54" class="st2"/>
+			</g>
+			<rect x="0" y="239.223" width="144" height="54" class="st3"/>
+			<text x="47.33" y="269.22" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>GPIO Core</text>		</g>
+		<g id="shape3-7" v:mID="3" v:groupContext="shape" transform="translate(2.6544,-229.973)">
+			<title>Rectangle.3</title>
+			<desc>设备驱动</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="62.7763" cy="266.223" width="125.56" height="54"/>
+			<g id="shadow3-8" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="239.223" width="125.553" height="54" class="st2"/>
+			</g>
+			<rect x="0" y="239.223" width="125.553" height="54" class="st3"/>
+			<text x="42.78" y="269.26" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>设备驱动</text>		</g>
+		<g id="shape4-13" v:mID="4" v:groupContext="shape" transform="translate(250.043,-103.973)">
+			<title>Rectangle.4</title>
+			<desc>GPIO 驱动 Apollo | Apollo-2 | Apollo-ECO</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="72" cy="266.223" width="144" height="54"/>
+			<g id="shadow4-14" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="239.223" width="144" height="54" class="st2"/>
+			</g>
+			<rect x="0" y="239.223" width="144" height="54" class="st3"/>
+			<text x="48.17" y="263.26" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>GPIO <tspan
+						class="st6">驱动<v:newlineChar/></tspan><tspan x="5.27" dy="1.204em" class="st7">Apollo </tspan>| Apollo-2 | Apollo-ECO</text>		</g>
+		<g id="shape5-21" v:mID="5" v:groupContext="shape" v:layerMember="0" transform="translate(128.207,-247.973)">
+			<title>Dynamic connector.104</title>
+			<path d="M0 284.22 L115.68 284.22" class="st8"/>
+		</g>
+		<g id="shape7-27" v:mID="7" v:groupContext="shape" v:layerMember="0" transform="translate(313.043,-157.973)">
+			<title>Dynamic connector.8</title>
+			<path d="M9 293.22 L9 227.38" class="st8"/>
+		</g>
+		<g id="shape8-32" v:mID="8" v:groupContext="shape" transform="translate(137.431,-263.723)">
+			<title>工作表.8</title>
+			<desc>申请配置GPIO</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="51.8059" cy="278.598" width="103.62" height="29.25"/>
+			<rect x="0" y="263.973" width="103.612" height="29.25" class="st10"/>
+			<text x="14.3" y="281.64" class="st11" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>申请，配置<tspan
+						class="st12">GPIO</tspan></text>		</g>
+		<g id="shape10-36" v:mID="10" v:groupContext="shape" transform="translate(326.431,-179.348)">
+			<title>工作表.10</title>
+			<desc>实现GPIO硬件配置细节</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="62.7763" cy="278.598" width="125.56" height="29.25"/>
+			<rect x="0" y="263.973" width="125.553" height="29.25" class="st10"/>
+			<text x="10.27" y="281.64" class="st11" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>实现<tspan
+						class="st12">GPIO</tspan>硬件配置细节</text>		</g>
+		<g id="shape11-40" v:mID="11" v:groupContext="shape" transform="translate(250.043,-4.9728)">
+			<title>Rectangle.12</title>
+			<desc>GPIO 硬件</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="72" cy="266.223" width="144" height="54"/>
+			<g id="shadow11-41" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="239.223" width="144" height="54" class="st2"/>
+			</g>
+			<rect x="0" y="239.223" width="144" height="54" class="st3"/>
+			<text x="48.17" y="269.26" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>GPIO <tspan
+						class="st6">硬件</tspan></text>		</g>
+		<g id="shape12-47" v:mID="12" v:groupContext="shape" v:layerMember="0" transform="translate(313.043,-58.9728)">
+			<title>Dynamic connector.13</title>
+			<path d="M9 293.22 L9 254.38" class="st8"/>
+		</g>
+	</g>
+</svg>
